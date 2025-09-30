@@ -4,15 +4,15 @@ Aspiring Data Scientist | AI & Data Security Enthusiast | Digital Marketer
 
 ---
 
-## 🌱 About Me  
-- 💻 Background in **Computer Science & Engineering**  
-- 🌍 Experience in **Digital Marketing, Business Development, and Entrepreneurship**  
-- 📊 Currently learning **Data Analysis, Machine Learning, and AI tools**  
-- 💡 Interested in exploring **quantum computing** and **paranormal studies** (for curiosity + research mindset)  
+##  About Me  
+-  Background in **Computer Science & Engineering**  
+-  Experience in **Digital Marketing, Business Development, and Entrepreneurship**  
+-  Currently learning **Data Analysis, Machine Learning, and AI tools**  
+-  Interested in exploring **quantum computing** and **paranormal studies** (for curiosity + research mindset)  
 
 ---
 
-## 🛠️ What I Can Do  
+##  What I Can Do  
 - **Data Skills**: Data Analysis, Time Series Forecasting (beginner level, improving daily)  
 - **Business Skills**: Digital Marketing, Funnel Strategy (Traffic vs Conversion Driven), SEO, Brand Identity Design  
 - **Entrepreneurship**: Founded brands like *Velours Skin Care* and *Nivara (ethnic wear)*  
@@ -21,7 +21,7 @@ Aspiring Data Scientist | AI & Data Security Enthusiast | Digital Marketer
 
 ---
 
-## 🚀 Current Focus  
+##  Current Focus  
 Building projects in **Data Science & AI** (Coursera roadmap + personal experiments)  
 Growing expertise in **Data Security & Agentic AI**  
 Personal growth: Health, fitness, and discipline  
