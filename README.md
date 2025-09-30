@@ -1,6 +1,6 @@
 # Hi, I'm Nusrat Jahan  
 
-Aspiring Data Scientist | AI & Data Security Enthusiast | Digital Marketer | Entrepreneur
+Aspiring Data Scientist | AI & Data Security Enthusiast | Digital Marketer 
 
 ---
 
