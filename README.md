@@ -30,7 +30,7 @@ Personal growth: Health, fitness, and discipline
 
 ## My Future Goals  
 Apply for a **PhD in Data Science, AI, or Data Security** at a **Top 20 USA University by Dec 2025**  
-Secure an **industry job in the USA** in AI/Data field after PhD  
+Secure an **industry job in the Germany, USA, malaysia, EU including Schenzen Area Members Country** in AI/Data field before/after PhD
 Expand my entrepreneurial ventures (*Velours Skin Care* and *Rupantok*) globally  
 Become a **scientist who solves real-world problems** with AI + data  
 
